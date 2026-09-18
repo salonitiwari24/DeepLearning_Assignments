@@ -1,15 +1,11 @@
 # Deep Learning Assignment 7: Transfer Learning using Pre-trained Models
-[svg](https://github.com/salonitiwari24/DeepLearning_Assignments/tree/main/Assignment-07#deep-learning-assignment-7-transfer-learning-using-pre-trained-models)
 
 ## Problem Statement
 
-[svg](https://github.com/salonitiwari24/DeepLearning_Assignments/tree/main/Assignment-07#problem-statement)
 
 Implement transfer learning using pre-trained AlexNet, VGG16, ResNet50, and EfficientNetB0 models for image classification and compare their performance.
 
 ## Dataset Overview
-
-[svg](https://github.com/salonitiwari24/DeepLearning_Assignments/tree/main/Assignment-07#dataset-overview)
 
 - **Name:** CIFAR-10
 - **Structure:** 60,000 color images, including 50,000 training and 10,000 testing images.
@@ -18,7 +14,6 @@ Implement transfer learning using pre-trained AlexNet, VGG16, ResNet50, and Effi
 
 ## Implementation Details
 
-[svg](https://github.com/salonitiwari24/DeepLearning_Assignments/tree/main/Assignment-07#implementation-details)
 
 1. **Dataset Loading & Exploration:**
    - Loaded the CIFAR-10 dataset using TensorFlow/Keras.
@@ -48,7 +43,6 @@ Implement transfer learning using pre-trained AlexNet, VGG16, ResNet50, and Effi
 
 ## Technologies Used
 
-[svg](https://github.com/salonitiwari24/DeepLearning_Assignments/tree/main/Assignment-07#technologies-used)
 
 - `tensorflow` / `keras` (Transfer Learning and Model Training)
 - `torchvision` / `pytorch` (Pre-trained model support, if applicable)
